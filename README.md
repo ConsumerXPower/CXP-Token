@@ -37,3 +37,10 @@ CXP seeks to restore economic balance by letting consumers regain power in the v
 ### License
 
 MIT
+
+### Whitepaper Copyright
+
+The whitepaper referenced via IPFS is an original work by Consumer X Power (CXP).  
+It is **not** covered under the MIT License of this repository.  
+You may share or reference it freely, but **modification, redistribution, or commercial use** requires **explicit permission** from the author.  
+Please retain the IPFS CID and original attribution when citing or quoting.
